@@ -2,5 +2,5 @@
 
 	require 'vendor/autoload.php';
 	
-	use Sinsituwoka\Sinsituwoka;
-	$s = new Sinsituwoka();
+	use Sinsituwoka\Sinsituwoka as S;
+	$s = new S();
