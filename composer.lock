@@ -190,12 +190,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/idaisukee/Sinsituwoka.php.git",
-                "reference": "80ae5567f74d3fc240502614828c0a1e1a8cc2fd"
+                "reference": "3764ecd54dddebda059740b3004c9558caa4e72a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/idaisukee/Sinsituwoka.php/zipball/80ae5567f74d3fc240502614828c0a1e1a8cc2fd",
-                "reference": "80ae5567f74d3fc240502614828c0a1e1a8cc2fd",
+                "url": "https://api.github.com/repos/idaisukee/Sinsituwoka.php/zipball/3764ecd54dddebda059740b3004c9558caa4e72a",
+                "reference": "3764ecd54dddebda059740b3004c9558caa4e72a",
                 "shasum": ""
             },
             "require": {
@@ -216,7 +216,7 @@
                 "source": "https://github.com/idaisukee/Sinsituwoka.php/tree/master",
                 "issues": "https://github.com/idaisukee/Sinsituwoka.php/issues"
             },
-            "time": "2017-05-30 09:12:25"
+            "time": "2017-06-05 05:18:02"
         },
         {
             "name": "psr/http-message",
