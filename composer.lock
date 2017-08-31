@@ -193,12 +193,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/idaisukee/Sinsituwoka.php.git",
-                "reference": "97c6d8a8c050a3aeaaacbd3da9abbab5e7daf84b"
+                "reference": "c11e8f007863699877c5258d6cafff2b64e5dea7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/idaisukee/Sinsituwoka.php/zipball/97c6d8a8c050a3aeaaacbd3da9abbab5e7daf84b",
-                "reference": "97c6d8a8c050a3aeaaacbd3da9abbab5e7daf84b",
+                "url": "https://api.github.com/repos/idaisukee/Sinsituwoka.php/zipball/c11e8f007863699877c5258d6cafff2b64e5dea7",
+                "reference": "c11e8f007863699877c5258d6cafff2b64e5dea7",
                 "shasum": ""
             },
             "require": {
@@ -210,7 +210,7 @@
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "Sinsituwoka\\": "",
+                    "Sinsituwoka\\": "lib/",
                     "Constants\\": "constants/",
                     "Vendor\\Namespace\\": ""
                 }
@@ -219,7 +219,7 @@
                 "source": "https://github.com/idaisukee/Sinsituwoka.php/tree/master",
                 "issues": "https://github.com/idaisukee/Sinsituwoka.php/issues"
             },
-            "time": "2017-07-05 13:17:28"
+            "time": "2017-08-23 05:11:48"
         },
         {
             "name": "psr/http-message",
